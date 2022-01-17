@@ -1,11 +1,12 @@
 # Carbon Lighthouse Coding Challenge - Tim Ruesink
 
 Instructions:
-* Clone this repo, and run the `install.sh` script. This will set up a virtual environment for you, and install the required dependencies. 
+* Clone this repo
 * navigate to parent directory
 ```bash
 cd ruesink_carbon_lighthouse
 ```
+* run the `install.sh` script.
 ```bash
 sh install.sh
 ```
