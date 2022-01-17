@@ -2,16 +2,16 @@
 
 Instructions:
 * Clone this repo, and run the `install.sh` script. This will set up a virtual environment for you, and install the required dependencies. 
+* navigate to parent directory
+```bash
+cd ruesink_carbon_lighthouse
+```
 ```bash
 sh install.sh
 ```
 * activate the venv 
 ```bash
 source ./bin/activate
-```
-* navigate to parent directory
-```bash
-cd carbon_lighthouse_interview
 ```
 * run tests
 ```bash
